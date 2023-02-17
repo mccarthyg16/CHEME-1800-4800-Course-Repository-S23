@@ -1,0 +1,9 @@
+## colarborators
+the only other people other than myself within that were used for help were Brandon and Jake. The only contributions we made 
+together were that we could just copy and paste the code from lab 3d as most of the code is the exact same as what is being used 
+here.
+
+## ProblemSet
+Within the problem set the command encrypt() encrypts a messages using a combination of letters to represent one letter in the 
+actual sentence. The second part is the decrpyt function which takes an encrypted message and decrypts it using the same coded
+message guide as the encryption command.
